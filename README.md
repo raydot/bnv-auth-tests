@@ -1,4 +1,7 @@
-# mailtrap-node-tut
-Following a tutorial to test out Mailtrap as a node test e-mail endpoint.
+# bnv-auth-tests
 
-Tutorial is by Kwabena Bio Berko and can be found at https://dev.to/kwabenberko/test-emails-in-your-nodeexpress-apps-using-mailtrapio-b32
+Testbed for the extensive work of creating a BNV user authentication schema.
+
+Accomplished:
+
+*Working with Mailtrap.io and Nodemail
